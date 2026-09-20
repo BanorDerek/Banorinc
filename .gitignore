@@ -1,3 +1,8 @@
 node_modules
 dist
 .DS_Store
+*.zip
+frontend/.env
+.env
+.env.local
+backend/.env
